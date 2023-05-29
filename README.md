@@ -1,6 +1,7 @@
 # tugass2
 
-A new Flutter project.
+Nama: Muhammad Raafi Ramadhan 
+NIM : 20104410095
 
 ## Getting Started
 
